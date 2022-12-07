@@ -64,9 +64,19 @@ color: var(--title-text-color);
     color: var(--title-text-color);
 }
 
-/* Button */
+/* Buttons */
 
-.button {
+.button1 {
+    color: #FFFFFF;
+    background-color: var(--accent-color);
+}
+
+.button2 {
+    color: var(--accent-color);
+    background-color: #F4F4FD;
+}
+
+.button2:hover {
     color: #FFFFFF;
     background-color: var(--accent-color);
 }
