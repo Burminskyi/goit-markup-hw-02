@@ -1,0 +1,87 @@
+:root {
+    --primary-text-color: #434455;
+    --title-text-color: #2E2F42;
+    --accent-color: #4D5AE5;
+}
+
+
+body {
+    background-color: #FFFFFF;
+    color: var(--primary-text-color);
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-text-color);
+}
+
+
+a {
+    text-decoration:none;
+  }
+
+.list {
+list-style: none;
+}
+
+/* Site Nav */
+
+.site-nav a {
+color: var(--title-text-color);
+}
+
+/* Logo */
+
+.logo {
+    color: var(--accent-color);
+}
+
+.logo-header {
+    color: var(--title-text-color);
+}
+
+.logo-footer {
+    color: #FFFFFF;
+}
+
+/* Authorisation */
+
+
+
+/* Hero */
+
+.hero {
+    background-color: var(--title-text-color);
+}
+
+.hero-title {
+    color: #FFFFFF;
+}
+
+/* Sections */
+
+.section-title {
+    color: var(--title-text-color);
+}
+
+/* Button */
+
+.button {
+    color: #FFFFFF;
+    background-color: var(--accent-color);
+}
+
+/* Footer */
+
+.footer {
+    color: #FFFFFF;
+    background-color: var(--title-text-color);
+}
+
+/* цвет основного текста + 2 часть лого #2E2F42 */
+
+/* вторичный цвет текста #434455 */
+
+/* акцент #4D5AE5 */
+
+/* белый #FFFFFF */
